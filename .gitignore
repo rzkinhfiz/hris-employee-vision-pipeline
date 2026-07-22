@@ -1,0 +1,35 @@
+# Environments
+venv/
+env/
+.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Output (SANGAT PENTING: Jangan upload data KTP/Karyawan ke GitHub)
+data/source_folders/*
+!data/source_folders/.gitkeep
+data/source_pdfs/*
+!data/source_pdfs/.gitkeep
+
+failed_review/*
+!failed_review/.gitkeep
+
+data/*.xlsx
+!data/.gitkeep
+!data/Template saja.xlsx
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Gitkeep Exceptions (Portfolio standard)
+!data/source_folders/.gitkeep
+!employee_folders/.gitkeep
+
+build-guides/
+TODO.md
