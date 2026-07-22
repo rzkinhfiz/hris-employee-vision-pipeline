@@ -65,8 +65,8 @@ Panduan yang lebih detail dapat Anda temukan di: [Setup & Panduan Penggunaan](do
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/Zero-Trace-HRIS-Pipeline.git
-   cd Zero-Trace-HRIS-Pipeline
+   git clone https://github.com/rzkinhfiz/hris-employee-vision-pipeline.git
+   cd hris-employee-vision-pipeline
    ```
 
 2. **Siapkan Virtual Environment & Dependencies:**
